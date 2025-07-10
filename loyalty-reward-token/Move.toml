@@ -6,6 +6,8 @@ authors = []
 [addresses]
 loyalty_token_addr = "0x791aa1f87285f693638f9eef025809ec497c2f93f949be93c24ac57770be2c2c"
 
+#loyalty_token_addr = "0xc8fb8fc763d71cb7ff5cdf938d888de3e53e5294de208d1cf1aad7a53e1a077e" multisig
+
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
 rev = "mainnet"
