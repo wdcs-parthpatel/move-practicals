@@ -1,0 +1,14 @@
+[package]
+name = "loyalty_reward_token"
+version = "1.0.3"
+authors = []
+
+[addresses]
+loyalty_token_addr = "0x791aa1f87285f693638f9eef025809ec497c2f93f949be93c24ac57770be2c2c"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
